@@ -14,7 +14,7 @@
 <b>English</b> | <a href="./README.zh-CN.md">简体中文</a>
 </p>
 
-## Features
+## Feature
 
 - Build with **Astro**, **TypeScript** and **UnoCSS**
 - **Fast**. 100% [Pagespeed Score](https://pagespeed.web.dev/analysis/https-astro-theme-typography-vercel-app/j34nq9tx0s?form_factor=desktop).
